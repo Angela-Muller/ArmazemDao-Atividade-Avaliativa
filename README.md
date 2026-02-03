@@ -25,7 +25,7 @@ O sistema permite cadastrar produtos e listar os produtos armazenando em um banc
 
 ---
 
-## Descrição das camadas 🖥️
+## Descrição das camadas
 
 - Main (app)
 
